@@ -20,12 +20,12 @@
 
         h1 {
             color: gold;
-            font-size: 5.5em;
+            font-size: 7em;
             font-family: "楷体";
             justify-content: center;
             align-items: center;
             font-weight: bolder;
-            letter-spacing:-2em;
+            letter-spacing:-3em;
             animation: fadeInText 2s ease-in-out forwards;
             transition: color 0.3s ease;
         }
